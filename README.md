@@ -6,7 +6,7 @@
 
 * `const A = () => 'A'`
 * `<Link to='/xxx'>xxx</Link>`
-* `<Route path='xxx' component={A} />`
+* `<Route path='/xxx' component={A} />`
 * `const allComponents = []`
 * 在 Route 组件 componentWillMount 时，向 allComponents 传入 component 实例，供重新渲染时调用实例的 forceUpdate
 #### hashRouter
