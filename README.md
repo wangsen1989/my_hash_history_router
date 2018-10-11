@@ -1,7 +1,7 @@
 
 ### 运行项目
 `npm install && npm satrt`
-
+### <a href='https://codesandbox.io/s/github/wangsen1989/my_hash_history_router'>去 codesandbox 预览</a>
 ### 原理概要
 
 * `const A = () => 'A'`
